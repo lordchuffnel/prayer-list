@@ -9,6 +9,9 @@
   "author": "Frank Huff",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^1.8.0"
+    "@slack/bolt": "^1.8.0",
+    "@slack/client": "^5.0.2",
+    "@slack/events-api": "^2.3.2",
+    "@slack/interactive-messages": "^1.5.0"
   }
 }
