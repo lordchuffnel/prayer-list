@@ -1,0 +1,14 @@
+{
+  "name": "prayer-manager",
+  "version": "1.0.0",
+  "description": "Simple app for adding and listing prayers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Huff",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^1.8.0"
+  }
+}
