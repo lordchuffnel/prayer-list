@@ -1,0 +1,14 @@
+{
+    "app_id": "prayer-xmjuu",
+    "config_version": 20180301,
+    "name": "Prayer",
+    "location": "US-OR",
+    "deployment_model": "LOCAL",
+    "security": {},
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    }
+}

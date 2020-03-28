@@ -1,17 +1,23 @@
 {
-  "name": "prayer-manager",
+  "name": "slackapp",
   "version": "1.0.0",
-  "description": "Simple app for adding and listing prayers",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb-stitch-cli": "^1.11.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Frank Huff",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordchuffnel/prayer-list.git"
+  },
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@slack/bolt": "^1.8.0",
-    "@slack/client": "^5.0.2",
-    "@slack/events-api": "^2.3.2",
-    "@slack/interactive-messages": "^1.5.0"
-  }
+  "bugs": {
+    "url": "https://github.com/lordchuffnel/prayer-list/issues"
+  },
+  "homepage": "https://github.com/lordchuffnel/prayer-list#readme"
 }

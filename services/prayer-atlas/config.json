@@ -1,0 +1,11 @@
+{
+    "id": "5e7e9394ed76930a1e41b086",
+    "name": "prayer-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Cluster0",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
